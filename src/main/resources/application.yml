@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: HelloDocker
+server:
+    port: 9000
+    address: docker.server.com
